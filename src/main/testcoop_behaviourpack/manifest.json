@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "TestCoop",
+    "uuid": "aa87b655-be30-39ab-8886-9553a28dec57",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "b5024bd7-4afd-3f5b-a656-43ccf37cf2e6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f15066a4-c5ac-3f3a-a75a-1621b1dbdb76",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "kleeper, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

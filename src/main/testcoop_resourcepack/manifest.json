@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "TestCoop",
+    "uuid": "f15066a4-c5ac-3f3a-a75a-1621b1dbdb76",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "bd09a8b2-9ca9-3388-a9ed-cf3c701bef73",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "kleeper, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
